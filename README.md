@@ -1,14 +1,14 @@
-```markdown
-# 🍏 Apple Inc. (AAPL) Stock Market Analysis
-### Interactive Exploratory Data Analysis & Financial Dashboard
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🍏+Apple+Inc.+%28AAPL%29+Stock+Market+Analysis;Interactive+Exploratory+Data+Analysis;Volatility%2C+Risk+Metrics+%26+S%26P+500+Benchmarks;Built+with+Python%2C+Streamlit+%26+Plotly" alt="Typing SVG" />
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive-blueviolet?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![yfinance](https://img.shields.io/badge/yfinance-Market%20Data-green?style=for-the-badge)](https://pypi.org/project/yfinance/)
-
-> *An interactive, data-driven exploration of Apple Inc.’s historical price trends, volatility, risk metrics, and S&P 500 benchmarks.*
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-Interactive-blueviolet?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+  <a href="https://pypi.org/project/yfinance/"><img src="https://img.shields.io/badge/yfinance-Market%20Data-green?style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -61,8 +61,6 @@ Stock-Market-Analysis/
 │   └── AAPL_volume_vs_daily_returns.png
 │
 └── README.md
-
-```
 
 ---
 

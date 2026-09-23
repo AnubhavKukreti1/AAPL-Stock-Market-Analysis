@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🍏+Apple+Inc.+%28AAPL%29+Stock+Market+Analysis;Interactive+Exploratory+Data+Analysis;Volatility%2C+Risk+Metrics+%26+S%26P+500+Benchmarks;Built+with+Python%2C+Streamlit+%26+Plotly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%F0%9F%8D%8E+Apple+Inc.+Stock+Market+Analysis;Interactive+Exploratory+Data+Analysis;Volatility%2C+Risk+Metrics+%26+SP500+Benchmarks;Built+with+Python%2C+Streamlit+%26+Plotly" alt="Typing SVG" />
 </p>
 
 <p align="center">
